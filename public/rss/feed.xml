@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>dat.pl's Blog</title>
+        <link>https://datpl.id,vn</link>
+        <description>My learnings, thoughts on software, programming, tech, and my personal life.</description>
+        <lastBuildDate>Tue, 29 Oct 2024 16:50:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>dat.pl's Blog</title>
+            <url>https://datpl.id,vn/static/img/social-banner.png</url>
+            <link>https://datpl.id,vn</link>
+        </image>
+        <copyright>© 2024 Spryse Limited™. All rights reserved.</copyright>
+        <item>
+            <title><![CDATA[Tests]]></title>
+            <link>https://datpl.id,vn/blog/this-is-a-test-blog</link>
+            <guid>https://datpl.id,vn/blog/this-is-a-test-blog</guid>
+            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.]]></description>
+            <content:encoded><![CDATA[Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Should You Go All In On Indie Hacking?]]></title>
+            <link>https://datpl.id,vn/blog/should-you-go-all-in-on-indie-hacking</link>
+            <guid>https://datpl.id,vn/blog/should-you-go-all-in-on-indie-hacking</guid>
+            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you asked yourself whether you should quit your job and go all in on Indie Hacking, you should read this. These are my lessons.]]></description>
+            <content:encoded><![CDATA[If you asked yourself whether you should quit your job and go all in on Indie Hacking, you should read this. These are my lessons.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[My Thoughts on Happiness And Wealth]]></title>
+            <link>https://datpl.id,vn/blog/my-thoughts-on-happiness-and-money</link>
+            <guid>https://datpl.id,vn/blog/my-thoughts-on-happiness-and-money</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[What makes a happy life? This is a question I have been pondering for a while. Here are my thoughts on how to live a fulfilled life.]]></description>
+            <content:encoded><![CDATA[What makes a happy life? This is a question I have been pondering for a while. Here are my thoughts on how to live a fulfilled life.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Kill Your Onces]]></title>
+            <link>https://datpl.id,vn/blog/kill-your-onces</link>
+            <guid>https://datpl.id,vn/blog/kill-your-onces</guid>
+            <pubDate>Sun, 04 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We often push our dreams to the backburner and use excuses like lack of experience or knowledge to keep from achieving them. Here is why you shouldn't.]]></description>
+            <content:encoded><![CDATA[We often push our dreams to the backburner and use excuses like lack of experience or knowledge to keep from achieving them. Here is why you shouldn't.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Build a React TailwindCSS Chrome Extension in 5 Minutes]]></title>
+            <link>https://datpl.id,vn/blog/build-a-react-tailwindcss-chrome-extension-in-5-minutes</link>
+            <guid>https://datpl.id,vn/blog/build-a-react-tailwindcss-chrome-extension-in-5-minutes</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to build a Google Chrome web extension with React, TypeScript and TailwindCSS in less than 5 minutes. Includes a free template.]]></description>
+            <content:encoded><![CDATA[Learn how to build a Google Chrome web extension with React, TypeScript and TailwindCSS in less than 5 minutes. Includes a free template.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[There Is No Try, Only Do]]></title>
+            <link>https://datpl.id,vn/blog/there-is-no-try-only-do</link>
+            <guid>https://datpl.id,vn/blog/there-is-no-try-only-do</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[When setting out to do achieve a goal, choosing the right wording is vital for success. Here is why you should erase try from your vocabulary.]]></description>
+            <content:encoded><![CDATA[When setting out to do achieve a goal, choosing the right wording is vital for success. Here is why you should erase try from your vocabulary.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[You Don't Need To Be an Expert To Share Your Learnings]]></title>
+            <link>https://datpl.id,vn/blog/you-dont-need-to-be-an-expert-to-share-your-learnings</link>
+            <guid>https://datpl.id,vn/blog/you-dont-need-to-be-an-expert-to-share-your-learnings</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[For the longest time I thought I should be an expert to share my knowledge. Here are my thoughts and advice on how to change this mindset.]]></description>
+            <content:encoded><![CDATA[For the longest time I thought I should be an expert to share my knowledge. Here are my thoughts and advice on how to change this mindset.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[A Guide on How to Set Personal Goals]]></title>
+            <link>https://datpl.id,vn/blog/a-guide-on-how-to-set-personal-goals</link>
+            <guid>https://datpl.id,vn/blog/a-guide-on-how-to-set-personal-goals</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Personal goals are one of the fundamental requirements for any high achieving person. Here is my guide on how to set and achieve them.]]></description>
+            <content:encoded><![CDATA[Personal goals are one of the fundamental requirements for any high achieving person. Here is my guide on how to set and achieve them.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[How I Manage My Life With The GTD System]]></title>
+            <link>https://datpl.id,vn/blog/how-i-manage-my-time-with-the-gtd-system</link>
+            <guid>https://datpl.id,vn/blog/how-i-manage-my-time-with-the-gtd-system</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We often get caught up in daily responsibilities and forget what we want to do. Learn how I externalize my brain with GTD to never forget anything.]]></description>
+            <content:encoded><![CDATA[We often get caught up in daily responsibilities and forget what we want to do. Learn how I externalize my brain with GTD to never forget anything.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Building Software Every Day For a Year]]></title>
+            <link>https://datpl.id,vn/blog/building-software-every-day-for-a-year</link>
+            <guid>https://datpl.id,vn/blog/building-software-every-day-for-a-year</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I have challenged myself to build software every day for a whole year straight. Here are the reasons behind it, how it's going and my learnings so far.]]></description>
+            <content:encoded><![CDATA[I have challenged myself to build software every day for a whole year straight. Here are the reasons behind it, how it's going and my learnings so far.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[My Favorite Tech Stack to Build SaaS]]></title>
+            <link>https://datpl.id,vn/blog/my-favorite-tech-stack-to-build-saas</link>
+            <guid>https://datpl.id,vn/blog/my-favorite-tech-stack-to-build-saas</guid>
+            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the my favorite stack for people who want to build SaaS fast. It includes everything from backend, to frontend, emails and payment.]]></description>
+            <content:encoded><![CDATA[This is the my favorite stack for people who want to build SaaS fast. It includes everything from backend, to frontend, emails and payment.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Marketing Sucks! Or Does It?]]></title>
+            <link>https://datpl.id,vn/blog/marketing-sucks-or-does-it</link>
+            <guid>https://datpl.id,vn/blog/marketing-sucks-or-does-it</guid>
+            <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I have had a somewhat negative mindset towards marketing. It seemed like only sleazy sales people are the ones doing it. This is how I changed my mindset.]]></description>
+            <content:encoded><![CDATA[I have had a somewhat negative mindset towards marketing. It seemed like only sleazy sales people are the ones doing it. This is how I changed my mindset.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mastering Discipline, Consistency and Focus - Part 3]]></title>
+            <link>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-3</link>
+            <guid>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-3</guid>
+            <pubDate>Tue, 27 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the last part of my series on productivity, we talk about focus. Knowing how to focus is an absolute necessity for anybody with an ambitious goal.]]></description>
+            <content:encoded><![CDATA[In the last part of my series on productivity, we talk about focus. Knowing how to focus is an absolute necessity for anybody with an ambitious goal.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mastering Discipline, Consistency and Focus - Part 2]]></title>
+            <link>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-2</link>
+            <guid>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-2</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is part 2 of a 3 part series on self-discipline, consistency and focus. How did I work on my consistency? Here is what you can take from it.]]></description>
+            <content:encoded><![CDATA[This is part 2 of a 3 part series on self-discipline, consistency and focus. How did I work on my consistency? Here is what you can take from it.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Mastering Discipline, Consistency and Focus - Part 1]]></title>
+            <link>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-1</link>
+            <guid>https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-1</guid>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is part 1 of a 3 part series on self-discipline, consistency and focus. How can you become more disciplined? Here is what worked for me.]]></description>
+            <content:encoded><![CDATA[This is part 1 of a 3 part series on self-discipline, consistency and focus. How can you become more disciplined? Here is what worked for me.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[A Guide to Building SaaS Businesses in Public]]></title>
+            <link>https://datpl.id,vn/blog/a-guide-to-building-saas-businesses-in-public</link>
+            <guid>https://datpl.id,vn/blog/a-guide-to-building-saas-businesses-in-public</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I have been wanting to build in public for a while but didn't really know where to start. Here is a compilation of things to get going and keep at it.]]></description>
+            <content:encoded><![CDATA[I have been wanting to build in public for a while but didn't really know where to start. Here is a compilation of things to get going and keep at it.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dealing With the Perfectionism Trap as a Developer]]></title>
+            <link>https://datpl.id,vn/blog/dealing-with-the-perfectionism-trap-as-a-developer</link>
+            <guid>https://datpl.id,vn/blog/dealing-with-the-perfectionism-trap-as-a-developer</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[When developing software or even building a SaaS business over-planning and over-engineering stifles your progress. Learn how to battle your perfectionism.]]></description>
+            <content:encoded><![CDATA[When developing software or even building a SaaS business over-planning and over-engineering stifles your progress. Learn how to battle your perfectionism.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[Implement a Share to Socials Feature in Under 5 Minutes]]></title>
+            <link>https://datpl.id,vn/blog/implement-a-share-to-socials-feature-in-under-5-minutes</link>
+            <guid>https://datpl.id,vn/blog/implement-a-share-to-socials-feature-in-under-5-minutes</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to quickly build a share to socials feature. Including LinkedIn, Twitter, Reddit, HackerNews and Facebook on web and native share on mobile.]]></description>
+            <content:encoded><![CDATA[Learn how to quickly build a share to socials feature. Including LinkedIn, Twitter, Reddit, HackerNews and Facebook on web and native share on mobile.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[26 Actionable Marketing Tasks You Can Do Right Now]]></title>
+            <link>https://datpl.id,vn/blog/26-actionable-marketing-tasks-you-can-do-right-now</link>
+            <guid>https://datpl.id,vn/blog/26-actionable-marketing-tasks-you-can-do-right-now</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.]]></description>
+            <content:encoded><![CDATA[Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Become a Better Developer]]></title>
+            <link>https://datpl.id,vn/blog/how-to-become-a-better-developer</link>
+            <guid>https://datpl.id,vn/blog/how-to-become-a-better-developer</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[As devs we are constantly challenged by the rapidly changing environment. Here are four habits that will help you become the best developer you can be.]]></description>
+            <content:encoded><![CDATA[As devs we are constantly challenged by the rapidly changing environment. Here are four habits that will help you become the best developer you can be.]]></content:encoded>
+            <author>phamluongdat231103@gmail.com (dat.pl)</author>
+        </item>
+    </channel>
+</rss>

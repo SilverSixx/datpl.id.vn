@@ -1,0 +1,254 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dat.pl's Blog",
+    "home_page_url": "https://datpl.id,vn",
+    "feed_url": "https://datpl.id,vn/rss/feed.json",
+    "description": "My learnings, thoughts on software, programming, tech, and my personal life.",
+    "icon": "https://datpl.id,vn/static/img/social-banner.png",
+    "author": {
+        "name": "dat.pl",
+        "url": "https://www.linkedin.com/in/datpl"
+    },
+    "items": [
+        {
+            "id": "https://datpl.id,vn/blog/this-is-a-test-blog",
+            "content_html": "Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.",
+            "url": "https://datpl.id,vn/blog/this-is-a-test-blog",
+            "title": "Tests",
+            "summary": "Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.",
+            "date_modified": "2024-10-29T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/should-you-go-all-in-on-indie-hacking",
+            "content_html": "If you asked yourself whether you should quit your job and go all in on Indie Hacking, you should read this. These are my lessons.",
+            "url": "https://datpl.id,vn/blog/should-you-go-all-in-on-indie-hacking",
+            "title": "Should You Go All In On Indie Hacking?",
+            "summary": "If you asked yourself whether you should quit your job and go all in on Indie Hacking, you should read this. These are my lessons.",
+            "date_modified": "2022-12-14T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/my-thoughts-on-happiness-and-money",
+            "content_html": "What makes a happy life? This is a question I have been pondering for a while. Here are my thoughts on how to live a fulfilled life.",
+            "url": "https://datpl.id,vn/blog/my-thoughts-on-happiness-and-money",
+            "title": "My Thoughts on Happiness And Wealth",
+            "summary": "What makes a happy life? This is a question I have been pondering for a while. Here are my thoughts on how to live a fulfilled life.",
+            "date_modified": "2022-12-06T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/kill-your-onces",
+            "content_html": "We often push our dreams to the backburner and use excuses like lack of experience or knowledge to keep from achieving them. Here is why you shouldn't.",
+            "url": "https://datpl.id,vn/blog/kill-your-onces",
+            "title": "Kill Your Onces",
+            "summary": "We often push our dreams to the backburner and use excuses like lack of experience or knowledge to keep from achieving them. Here is why you shouldn't.",
+            "date_modified": "2022-12-04T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/build-a-react-tailwindcss-chrome-extension-in-5-minutes",
+            "content_html": "Learn how to build a Google Chrome web extension with React, TypeScript and TailwindCSS in less than 5 minutes. Includes a free template.",
+            "url": "https://datpl.id,vn/blog/build-a-react-tailwindcss-chrome-extension-in-5-minutes",
+            "title": "Build a React TailwindCSS Chrome Extension in 5 Minutes",
+            "summary": "Learn how to build a Google Chrome web extension with React, TypeScript and TailwindCSS in less than 5 minutes. Includes a free template.",
+            "date_modified": "2022-11-21T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/there-is-no-try-only-do",
+            "content_html": "When setting out to do achieve a goal, choosing the right wording is vital for success. Here is why you should erase try from your vocabulary.",
+            "url": "https://datpl.id,vn/blog/there-is-no-try-only-do",
+            "title": "There Is No Try, Only Do",
+            "summary": "When setting out to do achieve a goal, choosing the right wording is vital for success. Here is why you should erase try from your vocabulary.",
+            "date_modified": "2022-11-20T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/you-dont-need-to-be-an-expert-to-share-your-learnings",
+            "content_html": "For the longest time I thought I should be an expert to share my knowledge. Here are my thoughts and advice on how to change this mindset.",
+            "url": "https://datpl.id,vn/blog/you-dont-need-to-be-an-expert-to-share-your-learnings",
+            "title": "You Don't Need To Be an Expert To Share Your Learnings",
+            "summary": "For the longest time I thought I should be an expert to share my knowledge. Here are my thoughts and advice on how to change this mindset.",
+            "date_modified": "2022-11-08T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/a-guide-on-how-to-set-personal-goals",
+            "content_html": "Personal goals are one of the fundamental requirements for any high achieving person. Here is my guide on how to set and achieve them.",
+            "url": "https://datpl.id,vn/blog/a-guide-on-how-to-set-personal-goals",
+            "title": "A Guide on How to Set Personal Goals",
+            "summary": "Personal goals are one of the fundamental requirements for any high achieving person. Here is my guide on how to set and achieve them.",
+            "date_modified": "2022-11-03T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/how-i-manage-my-time-with-the-gtd-system",
+            "content_html": "We often get caught up in daily responsibilities and forget what we want to do. Learn how I externalize my brain with GTD to never forget anything.",
+            "url": "https://datpl.id,vn/blog/how-i-manage-my-time-with-the-gtd-system",
+            "title": "How I Manage My Life With The GTD System",
+            "summary": "We often get caught up in daily responsibilities and forget what we want to do. Learn how I externalize my brain with GTD to never forget anything.",
+            "date_modified": "2022-10-25T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/building-software-every-day-for-a-year",
+            "content_html": "I have challenged myself to build software every day for a whole year straight. Here are the reasons behind it, how it's going and my learnings so far.",
+            "url": "https://datpl.id,vn/blog/building-software-every-day-for-a-year",
+            "title": "Building Software Every Day For a Year",
+            "summary": "I have challenged myself to build software every day for a whole year straight. Here are the reasons behind it, how it's going and my learnings so far.",
+            "date_modified": "2022-10-19T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/my-favorite-tech-stack-to-build-saas",
+            "content_html": "This is the my favorite stack for people who want to build SaaS fast. It includes everything from backend, to frontend, emails and payment.",
+            "url": "https://datpl.id,vn/blog/my-favorite-tech-stack-to-build-saas",
+            "title": "My Favorite Tech Stack to Build SaaS",
+            "summary": "This is the my favorite stack for people who want to build SaaS fast. It includes everything from backend, to frontend, emails and payment.",
+            "date_modified": "2022-10-12T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/marketing-sucks-or-does-it",
+            "content_html": "I have had a somewhat negative mindset towards marketing. It seemed like only sleazy sales people are the ones doing it. This is how I changed my mindset.",
+            "url": "https://datpl.id,vn/blog/marketing-sucks-or-does-it",
+            "title": "Marketing Sucks! Or Does It?",
+            "summary": "I have had a somewhat negative mindset towards marketing. It seemed like only sleazy sales people are the ones doing it. This is how I changed my mindset.",
+            "date_modified": "2022-10-07T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-3",
+            "content_html": "In the last part of my series on productivity, we talk about focus. Knowing how to focus is an absolute necessity for anybody with an ambitious goal.",
+            "url": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-3",
+            "title": "Mastering Discipline, Consistency and Focus - Part 3",
+            "summary": "In the last part of my series on productivity, we talk about focus. Knowing how to focus is an absolute necessity for anybody with an ambitious goal.",
+            "date_modified": "2022-09-27T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-2",
+            "content_html": "This is part 2 of a 3 part series on self-discipline, consistency and focus. How did I work on my consistency? Here is what you can take from it.",
+            "url": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-2",
+            "title": "Mastering Discipline, Consistency and Focus - Part 2",
+            "summary": "This is part 2 of a 3 part series on self-discipline, consistency and focus. How did I work on my consistency? Here is what you can take from it.",
+            "date_modified": "2022-09-19T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-1",
+            "content_html": "This is part 1 of a 3 part series on self-discipline, consistency and focus. How can you become more disciplined? Here is what worked for me.",
+            "url": "https://datpl.id,vn/blog/mastering-discipline-consistency-and-focus-part-1",
+            "title": "Mastering Discipline, Consistency and Focus - Part 1",
+            "summary": "This is part 1 of a 3 part series on self-discipline, consistency and focus. How can you become more disciplined? Here is what worked for me.",
+            "date_modified": "2022-09-18T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/a-guide-to-building-saas-businesses-in-public",
+            "content_html": "I have been wanting to build in public for a while but didn't really know where to start. Here is a compilation of things to get going and keep at it.",
+            "url": "https://datpl.id,vn/blog/a-guide-to-building-saas-businesses-in-public",
+            "title": "A Guide to Building SaaS Businesses in Public",
+            "summary": "I have been wanting to build in public for a while but didn't really know where to start. Here is a compilation of things to get going and keep at it.",
+            "date_modified": "2022-09-07T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/dealing-with-the-perfectionism-trap-as-a-developer",
+            "content_html": "When developing software or even building a SaaS business over-planning and over-engineering stifles your progress. Learn how to battle your perfectionism.",
+            "url": "https://datpl.id,vn/blog/dealing-with-the-perfectionism-trap-as-a-developer",
+            "title": "Dealing With the Perfectionism Trap as a Developer",
+            "summary": "When developing software or even building a SaaS business over-planning and over-engineering stifles your progress. Learn how to battle your perfectionism.",
+            "date_modified": "2022-09-06T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/implement-a-share-to-socials-feature-in-under-5-minutes",
+            "content_html": "Learn how to quickly build a share to socials feature. Including LinkedIn, Twitter, Reddit, HackerNews and Facebook on web and native share on mobile.",
+            "url": "https://datpl.id,vn/blog/implement-a-share-to-socials-feature-in-under-5-minutes",
+            "title": "Implement a Share to Socials Feature in Under 5 Minutes",
+            "summary": "Learn how to quickly build a share to socials feature. Including LinkedIn, Twitter, Reddit, HackerNews and Facebook on web and native share on mobile.",
+            "date_modified": "2022-09-06T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/26-actionable-marketing-tasks-you-can-do-right-now",
+            "content_html": "Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.",
+            "url": "https://datpl.id,vn/blog/26-actionable-marketing-tasks-you-can-do-right-now",
+            "title": "26 Actionable Marketing Tasks You Can Do Right Now",
+            "summary": "Marketing is hard. Sometimes, we just don't know where to start or are stuck in a rut. This is a curated list of 26 actionable marketing tasks for devs.",
+            "date_modified": "2022-09-06T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        },
+        {
+            "id": "https://datpl.id,vn/blog/how-to-become-a-better-developer",
+            "content_html": "As devs we are constantly challenged by the rapidly changing environment. Here are four habits that will help you become the best developer you can be.",
+            "url": "https://datpl.id,vn/blog/how-to-become-a-better-developer",
+            "title": "How to Become a Better Developer",
+            "summary": "As devs we are constantly challenged by the rapidly changing environment. Here are four habits that will help you become the best developer you can be.",
+            "date_modified": "2022-09-07T00:00:00.000Z",
+            "author": {
+                "name": "dat.pl",
+                "url": "https://www.linkedin.com/in/datpl"
+            }
+        }
+    ]
+}
