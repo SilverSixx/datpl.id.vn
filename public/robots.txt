@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://jebraat.com
+Host: https://datpl.id.vn
 
 # Sitemaps
-Sitemap: https://jebraat.com/sitemap.xml
+Sitemap: https://datpl.id.vn/sitemap.xml

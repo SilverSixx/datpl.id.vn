@@ -18,7 +18,15 @@ const nextConfig = {
         headers: securityHeaders,
       },
     ]
-  }
+  },
+  async rewrites() {
+    return [
+      {
+        source: '/ads.txt',
+        destination: '/api/ads',
+      },
+    ];
+  },
 }
 
 // https://nextjs.org/docs/advanced-features/security-headers
